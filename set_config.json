@@ -3,7 +3,7 @@
         "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-category-ads-all.srs"
     },
     "adguard": {
-        "url": "https://raw.githubusercontent.com/kumalum/config-singbox/rule-set/adguard.srs"
+        "url": "https://raw.githubusercontent.com/kumalum/rule-set/main/adguard.srs"
     },
     "direct": {
         "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-cn.srs"
