@@ -5,9 +5,6 @@
     "adguard": {
         "url": "https://raw.githubusercontent.com/kumalum/rule-set/main/adguard.srs"
     },
-    "direct": {
-        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-cn.srs"
-    },
     "telegram": {
         "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-telegram.srs"
     },
@@ -16,5 +13,8 @@
     },
     "googlefcm": {
         "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-googlefcm.srs"
+    },
+    "direct": {
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-cn.srs"
     }
 }
