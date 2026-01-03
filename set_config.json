@@ -1,0 +1,20 @@
+{
+    "ads": {
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-category-ads-all.srs"
+    },
+    "adguard": {
+        "url": "https://raw.githubusercontent.com/kumalum/config-singbox/rule-set/adguard.srs"
+    },
+    "direct": {
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-cn.srs"
+    },
+    "telegram": {
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-telegram.srs"
+    },
+    "bilibili": {
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-bilibili.srs"
+    },
+    "googlefcm": {
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-googlefcm.srs"
+    }
+}
